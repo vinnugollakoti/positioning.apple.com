@@ -1,0 +1,130 @@
+* {
+  margin: 0%;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  color: rgba(255, 255, 255, 0.591);
+}
+/* using fixed position */
+nav {
+  background-color: rgba(12, 12, 12, 0.753);
+  position: fixed;
+  width: 100%;
+  padding: 0px;
+  color: white;
+  display: flex;
+  height: 44px;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.topbody {
+  background-color: rgb(0, 0, 0);
+}
+.bottombody {
+  background-color: white;
+}
+.applelogo {
+  height: 16px;
+  margin-top: 12px;
+  margin-left: 189px;
+}
+/* using relative position */
+#Store {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Mac {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Ipad {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Iphone {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Watch {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Vision {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Airpods {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Tv {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Entertainment {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Accessories {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#Support {
+  position: relative;
+  margin-left: 36px;
+  margin-top: 14px;
+  font-size: 12.5px;
+}
+#mainpage {
+  margin-top: 100px;
+  width: 100%;
+}
+/* using static position */
+#mainpage1 {
+  width: 100%;
+  position: static;
+}
+#mainpage2 {
+  width: 100%;
+  position: static;
+}
+#mainpage3 {
+  width: 100%;
+  position: static;
+}
+#mainpage4 {
+  width: 100%;
+  position: static;
+}
+#mainpage5 {
+  width: 100%;
+  position: static;
+}
+#mainpage6 {
+  width: 100%;
+  position: static;
+}
+/* using absolute position */
+#About {
+  position: absolute;
+}
